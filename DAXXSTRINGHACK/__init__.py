@@ -17,7 +17,7 @@ START_PIC = Config.START_PIC
 
 
 if not START_PIC:
-    START_PIC = "https://telegra.ph/file/73cd2c73ff6d19923774c.jpg"
+    START_PIC = "https://te.legra.ph/file/92f53162869ce9701386e.jpg"
 
 #rich
 LOG = Console()
@@ -39,8 +39,8 @@ async def DAXXSTRINGHACK():
     header = Table(show_header=True, header_style="bold green")
     header.add_column(LOG_TEXT)
     LOG.print(header)
-    LOG.print(f"[bold cyan]𝐌𝐑.𝐃𝐀𝐗𝐗")
-    LOG.print("[bold yellow]𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭.............")
+    LOG.print(f"[bold cyan]𝐃𝐗-𝐋𝐔𝐂𝐊𝐘")
+    LOG.print("[bold yellow]𝐃𝐗-𝐋𝐔𝐂𝐘 𝐁𝐎𝐓 𝐒𝐭𝐚𝐫𝐭.............")
     await app.start()    
     
 
